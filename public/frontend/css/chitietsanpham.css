@@ -1,0 +1,620 @@
+
+.bor
+{
+    border: 1px solid #e3e3e3;
+}
+.chitietsanpham
+{
+
+}
+.chitietsanpham h1
+{
+    float: left;
+    overflow: hidden;
+    font-size: 24px;
+    color: #333;
+    line-height: 40px;
+    margin: 0 0 0 10px;
+}
+.rowdetail .group
+{
+    zoom: 1;
+}
+.rowdetail
+{
+    display: block;
+    border-top: 1px solid #e5e5e5;
+    padding: 15px 0;
+    margin-top: 5px;
+    clear: both;
+    position: relative;
+}
+.picture
+{
+    float: left;
+    overflow: hidden;
+    width: 35%;
+    position: relative;
+    display: block;
+}
+.picture img
+{
+    display: block;
+    height: auto;
+    margin: auto;
+    max-width: 100%;
+    cursor: pointer;
+}
+.price_sale
+{
+    float: left;
+    position: relative;
+    width: 33%;
+    margin: 0 3% 0 2%;
+    display: block;
+}
+.area_price
+{
+    display: block;
+    overflow: hidden;
+    line-height: 20px;
+    padding: 0 10px 10px;
+}
+.area_price strong
+{
+    display: inline-block;
+    overflow: hidden;
+    font-size: 20px;
+    color: #bf081f;
+    vertical-align: middle;
+    margin-right: 5px;
+    position: relative;
+}
+.area_price span
+{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 20px;
+    text-decoration: line-through;
+    margin-left: 5px;
+    color: #696969;
+}
+.area_price label
+{
+    display: inline-block;
+    position: relative;
+    font-size: 11px;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 3px;
+    height: 18px;
+}
+.area_price label .installment
+{
+    background: #f28902;
+    margin: 0 0 0 5px;
+}
+
+.area_promotion
+{
+    display: block;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    position: relative;
+    margin: 5px 10px 12px;
+    background: #fff;
+    padding-bottom: 10px;
+}
+.area_promotion .km
+{
+    display: block;
+    overflow: hidden;
+    font-size: 15px;
+    padding: 15px 15px 10px 15px;
+    text-transform: uppercase;
+    background-color: #f6f6f6;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10px;
+    color: #333;
+}
+.area_promotion .km i
+{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    color: #666;
+    display: block;
+    text-transform: none;
+    padding-top: 1px;
+}
+.area_promotion .promo
+{
+    display: block;
+    overflow: hidden;
+    font-size: 14px;
+    padding: 0 15px 5px 40px;
+}
+.area_promotion .infopr .promo-sp
+{
+    display: block;
+    overflow: hidden;
+    font-size: 14px;
+    color: #333;
+    padding: 0 15px 5px 40px;
+}
+.promo i
+{
+    color: #090;
+    font-size: 20px;
+    float: left;
+    margin: 2px 0 0 -20px;
+}
+
+.area_promotion .promo_bhx
+{
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 8px;
+    border-left: none;
+    border-right: none;
+    border-top-style: dashed;
+    border-bottom-style: dashed;    
+}
+.promo_bhx
+{
+    font-size: 14px;
+    color: #333;
+    line-height: 20px;
+    display: block;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 12px 12px 5px 12px;
+    border-radius: 4px;
+    border-top-style: dashed;
+}
+.promo_bhx .l1
+{
+    float: left;
+}
+.promo_bhx .l2
+{
+    float: right;
+    width: calc(100% - 25px);
+}
+
+.policy
+{
+    display: block;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.policy div
+{
+    display: block;
+    overflow: hidden;
+    padding: 5px 0 5px 5px;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0 10px;
+    border-bottom: 1px solid #f0f0f0;
+    position: relative;
+}
+.policy div i
+{
+    display: block;
+    width: 20px;
+    height: 17px;
+    float: left;
+    margin: 3px;
+    font-size: 18px;
+}
+.policy div p
+{
+    margin: 0 0 0 28px;
+    color: #288ad6;
+}
+.fa-star, .fa-star-o
+{
+    color: orange;
+}
+
+.vipservice
+{
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 12px 12px 5px 12px;
+    margin: 0 10px 10px;
+}
+.vipservice>b
+{
+    display: block;
+}
+.vipservice>*
+{
+    margin-bottom: 10px;
+}
+.vipservice>div>a
+{
+    color: #333;
+}
+.vipservice>div i .iconmobile-checkbox
+{
+    margin-right: 5px;
+}
+.check .iconmobile-checkbox
+{
+    background-position: -165px -30px;
+}
+[class^="icontgdd-"], [class*="icontgdd-"], [class^="iconmobile-"], [class*="iconmobile-"] {
+    background-image: url(http://localhost/webbanhang/images/img/img12.png);
+}
+[class^="icontgdd-"], [class*="icontgdd-"], [class^="iconmobile-"], [class*="iconmobile-"] {
+    background-image: url(http://localhost/webbanhang/images/img/img11.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    vertical-align: middle;
+}
+.iconmobile-checkbox
+{
+    background-position: -145px -30px;
+    width: 16px;
+    height: 16px;
+    vertical-align: sub;
+}
+.area_order
+{
+    display: block;
+    overflow: hidden;
+    margin: 10px;
+}
+.area_order .buy_now
+{
+    display: block;
+    overflow: hidden;
+    padding: 7px 0;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: normal;
+    color: #fff;
+    text-align: center;
+    background: -webkit-linear-gradient(top, #f59000, #fd6e1d);
+    text-decoration: none;
+    cursor: pointer;
+}
+.area_order .buy_now h3
+{
+    margin: 10px 0;
+}
+.fa-minus, .fa-plus
+{
+    padding: 10px;
+}
+
+.callorder
+{
+    display: block;
+    overflow: hidden;
+    padding: 0 10px;
+    font-size: 14px;
+    color: #333;
+    margin-top: -10px;
+}
+.callorder .ct
+{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 8px;
+    text-align: center;
+}
+.callorder span
+{
+    display: inline-block;
+    padding: 5px 0 0
+}
+
+.rowdetail .info-product
+{
+    width: 40%;
+    border: 1px solid #ddd;
+    float: right;
+    border-radius: 3px;
+    display: block;
+    margin-bottom: 10px;
+}
+.rowdetail .info-product h2
+{
+    display: block;
+    line-height: 1.3em;
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 0;
+    font-weight: 500;
+    text-align: center;
+    padding: 10px;
+}
+.rowdetail .info-product .info
+{
+    display: block;
+    position: relative;
+    overflow: hidden;
+    padding: 10px 5px 0;
+}
+.rowdetail .info-product .info li
+{
+    list-style: none;
+    display: table;
+    border-top: 1px solid #eee;
+    width: 100%;
+    padding: 5px 0;
+}
+.rowdetail .info-product .info li p
+{
+    clear: both;
+    float: left;
+    margin: 5px 0;
+    width: 40%;
+    color: #666;
+    font-weight: bold;
+}
+.rowdetail .info-product .info li div
+{
+    float: left;
+    margin: 5px 0;
+    color: #333;
+    font-style: italic;
+}
+
+.rating {
+    margin: 20px auto;
+    width: 100%;
+    text-align: center;
+}
+
+.rating .fa-star,
+.rating .fa-star-o {
+    color: #FD4;
+    font-size: 24px;
+}
+
+
+.area_price label.tragop {
+    background: #f28902;
+    margin: 0 0 0 5px;
+}
+
+.area_price label.giamgia {
+    background-image: -webkit-gradient(linear, left top, right top, from(#ff9c00), to(#ec1f1f));
+    background-image: -webkit-linear-gradient(left, #ff9c00 0%, #ec1f1f 100%);
+    background-image: -o-linear-gradient(left, #ff9c00 0%, #ec1f1f 100%);
+    background-image: linear-gradient(90deg, #ff9c00 0%, #ec1f1f 100%);
+    margin: 0 0 0 5px;
+}
+
+.area_price label.moiramat {
+    background: #1191f8;
+    margin: 0 0 0 5px;
+}
+
+.area_price label.giareonline {
+    background: #3fb846;
+    margin: 0 0 0 5px;
+}
+
+.ship {
+    background-color: #ecf7ed;
+    border-radius: 3px;
+    border: 1px solid #c4ddc8;
+    margin: 5px 10px 10px;
+    padding: 0 10px;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+.ship i {
+    width: 19px;
+    height: 21px;
+    margin: 4px 10px 0 0;
+    float: left;
+    font-size: 20px;
+}
+
+.ship div {
+    border-left: 1px solid #c4ddc8;
+    display: block;
+    line-height: 30px;
+    padding-left: 10px;
+    margin-left: 28px;
+    color: #30a43b;
+    max-width: 1200px;
+}
+
+.area-order .buy-now:hover {
+    background: -webkit-linear-gradient(top, #fd6e1d, #f59000);
+}
+
+/* =================== Comment Area ================= */
+.comment-area {
+    float: left;
+    width: 57%;
+    margin-bottom: 10px;
+}
+
+.comment-area h2 {
+    margin: 10px 0 10px 10px;
+}
+
+/* Chat comment */
+.comment {
+    border: 2px solid #dedede;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+/* Darker chat comment */
+.darker {
+    border-color: #ccc;
+    background-color: #ddd;
+}
+
+/* Clear floats */
+.comment::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Style images */
+.comment>i {
+    float: left;
+    font-size: 40px;
+    margin-right: 10px;
+}
+
+.comment h4 {
+    /*float: left;*/
+    margin-right: 20px;
+}
+
+.comment h4 i.fa-star {
+    color: #FD4;
+}
+
+/* Style time text */
+.time {
+    float: left;
+    color: #999;
+}
+
+.time:before {
+    content: "\f017";
+    color: #ddd;
+    font-family: FontAwesome;
+    display: inline-block;
+    margin-right: 4px;
+}
+
+.comment-content {
+    max-height: 450px;
+    overflow-y: auto;
+}
+
+/* ================== Binh luan ==================*/
+.guibinhluan {
+    box-sizing: border-box;
+    border: 0.5px solid #bfbebe;
+}
+
+#inpBinhLuan {
+    box-sizing: border-box;
+    border: none;
+    display: block;
+    font-size: 16px;
+    width: 100%;
+    padding: 15px 15px;
+    height: 120px;
+    border-top: 1px solid #dadada;
+    border-radius: 4px 4px 0 0;
+    box-sizing: border-box;
+    line-height: 20px;
+}
+
+#btnBinhLuan {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    padding: 10px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+}
+
+#btnBinhLuan:hover {
+    background-color: #4CBF50;
+}
+
+/*https://www.cssscript.com/simple-5-star-rating-system-with-css-and-html-radios/*/
+div.stars {
+    width: 250px;
+    display: inline-block;
+    height: 50px;
+}
+
+input.star {
+    display: none;
+}
+
+label.star {
+    float: right;
+    padding: 10px;
+    font-size: 30px;
+    color: #444;
+    transition: all .2s;
+}
+
+input.star:checked~label.star:before {
+    content: '\f005';
+    color: #FD4;
+    transition: all .25s;
+}
+
+input.star-5:checked~label.star:before {
+    color: #FE7;
+    text-shadow: 0 0 20px #952;
+}
+
+input.star-1:checked~label.star:before {
+    color: #F62;
+}
+
+input.star-2:checked~label.star:before {
+    color: #F94;
+}
+
+input.star-3:checked~label.star:before {
+    color: #FA4;
+}
+
+label.star:hover {
+    transform: rotate(10deg) scale(1.3);
+}
+
+label.star:before {
+    content: '\f006';
+    font-family: FontAwesome;
+}
+
+/* ========================== responsive ============================*/
+@media only screen and (max-width: 768px) {
+
+    .picture,
+    .price_sale,
+    .info_product {
+        float: none;
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    .chitietsanpham h1 {
+        float: none;
+        width: 100%;
+        margin: 0;
+        padding-left: 10px;
+    }
+
+    .commentsArea h2 {
+        text-align: center;
+    }
+}
